@@ -53,3 +53,17 @@ Swing (JFrame, JButton, JLabel, JPanel)
 Java AWT (Color, Font)
 
 GridLayout & BorderLayout
+
+🚀 How to Run the Calculator
+Method 1 — VS Code (recommended)
+
+Open the project folder in VS Code
+
+Make sure the Java Extension Pack is installed
+
+Open the file:
+Calculator.java
+
+Click the green Run ▶️ button at the top right
+
+A calculator window will appear.
